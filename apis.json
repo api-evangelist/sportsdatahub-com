@@ -1,0 +1,74 @@
+{
+    "name": "SportsDataHub.com",
+    "description": "Leverage the power of sports data with API feeds and digital content solutions. With coverage for over 800 leagues, Sportradar has what you need!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1164-sportsdatahub-com.jpg",
+    "tags": [
+        "basketball",
+        "football",
+        "have api",
+        "soccer"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sportsdatahub-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SportsDataHub.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1164-sportsdatahub-com.jpg",
+            "humanURL": "http:\/\/sportsdatallc.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sportsdatahub-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/ww2.sportsdatahub.com\/index.php?dir=blogs"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/ww2.sportsdatahub.com\/index.php\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sportradar-ag"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sports-data-hub"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.sportsdatallc.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "sales@sportsdatallc.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/SportsDataHub"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SportradarUS"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sportsdatahub"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sportsdatallc.com\/"
+        }
+    ]
+}
